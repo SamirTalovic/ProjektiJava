@@ -1,8 +1,8 @@
 package paket;
 
-import paket.Person;
-import paket.PhoneBooth;
-import paket.PublicPhoneBooth;
+import paket.Osoba;
+import paket.Govornica;
+import paket.PublicGovornica;
 
 class Osoba extends Thread {
     private static int brojac = 1;
